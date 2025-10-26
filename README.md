@@ -83,4 +83,4 @@ Create a GUI version using a graphics library
 
 Your Name
 📧 tanishka.minghlani01@gmail.com
-🌐 github.com/tanishka 
+🌐 github.com/Tanishk-a
